@@ -1,0 +1,92 @@
+.starRating {
+    cursor: pointer;
+    transition: color 200ms;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Arial', sans-serif;
+  }
+  div h2{
+    color:lightslategray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+.container {
+  
+  width: 100%;
+  height: 100%;
+}
+
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1rem;
+}
+
+
+.dropdown-menu {
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-item {
+  font-size: 1rem;
+}
+div .col-sm-6 mt-4{
+border: 1px solid rgb(199, 24, 24);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+div .col-sm-6 mt-4 h2,{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgba(108, 86, 86, 0.479);
+
+}
+div .col-sm-6 mt-4 h4{
+  text-decoration: underline;
+  font-size: smaller;
+  color: red;
+}
+.btn-outline-dark {
+  position: relative;
+  padding: 15px;
+}
+button span{
+  font-size: large;
+}
+button span
+
+.badge {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+/* Header Styles */
+.header {
+
+  padding: 40px 0;
+}
+
+.header h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.header p {
+  font-size: 1.2rem;
+  color: #ccc;
+}
